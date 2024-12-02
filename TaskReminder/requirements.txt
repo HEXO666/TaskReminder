@@ -1,1 +1,7 @@
+Flask==2.3.2
+python-telegram-bot==20.3
+APScheduler==3.10.1
+twilio==8.3.0
+gTTS==2.3.2
+python-dotenv==1.0.0
 
